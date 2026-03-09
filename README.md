@@ -1,0 +1,1 @@
+Doc-Genie is a Python-based tool that automatically generates professional docstrings for Python functions using static code analysis. It supports both  Google-style and NumPy-style documentation formats.
